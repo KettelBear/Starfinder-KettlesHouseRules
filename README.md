@@ -4,7 +4,7 @@
 
 The purpose of this document is to take note of my unique rules that are above the set of rules given by the Core Rulebook (aka CR). As I read through the CR, I am noting things I would like to do differently here. It forces me to pay close attention to the set of rules set by Paizo in the CR, and become very familiar with the layout of the CR. This allows me to quickly reference a rule while a game is in session. I strongly urge you, reader, to do the same, and create your own rule set while reading along with the CR. However, if you are a Starfinder veteran, please feel free to use these rules at your will. 
 
-And of course, Any feedback is greatly appreciated.
+And of course, any feedback is greatly appreciated.
 
 #### How To Use These Rules:
 
@@ -15,88 +15,99 @@ The contents are listed in order of the CR, and thus, there may be some sections
 This is a very small subset of rules for the Role-playing Game (RPG) known as Starfinder. This game is owned by Paizo. This subsest of rules, known as "Kettle's House Rules", is not enough to be able to play the game.
 
 ## Table of contents
-1. [Chapter 1: Character Creation](https://github.com/sbreining/StarfinderRules#chapter-1-character-creation)
-    1. [Section 1: Creation Steps](https://github.com/sbreining/StarfinderRules#section-1-creation-steps)
-    2. [Section 2: Ability Scores](https://github.com/sbreining/StarfinderRules#section-2-ability-scores)
-    3. [Section 3: Health and Resolve](https://github.com/sbreining/StarfinderRules#section-3-health-and-resolve)
-    4. [Section 4: Alignment](https://github.com/sbreining/StarfinderRules#section-4-alignment)
-    5. [Section 5: Leveling Up](https://github.com/sbreining/StarfinderRules#section-5-leveling-up)
-    6. [Section 6: Character Themes](https://github.com/sbreining/StarfinderRules#section-6-character-themes)
-2. [Chapter 2: Races](https://github.com/sbreining/StarfinderRules#chapter-2-races)
-    1. [Section 1: Android](https://github.com/sbreining/StarfinderRules#section-1-android)
-    2. [Section 2: Human](https://github.com/sbreining/StarfinderRules#section-2-human)
-    3. [Section 3: Kasatha](https://github.com/sbreining/StarfinderRules#section-3-kasatha)
-    4. [Section 4: Lashunta](https://github.com/sbreining/StarfinderRules#section-4-lashunta)
-    5. [Section 5: Shirren](https://github.com/sbreining/StarfinderRules#section-5-shirren)
-    6. [Section 6: Vesk](https://github.com/sbreining/StarfinderRules#section-6-vesk)
-    7. [Section 7: Ysoki](https://github.com/sbreining/StarfinderRules#section-7-ysoki)
-    8. [Section 8: Amalgam](https://github.com/sbreining/StarfinderRules#section-8-amalgam)
-3. [Chapter 3: Classes](https://github.com/sbreining/StarfinderRules#chapter-3-classes)
-    1. [Section 1: Envoy](https://github.com/sbreining/StarfinderRules#section-1-envoy)
-    2. [Section 2: Mechanic](https://github.com/sbreining/StarfinderRules#section-2-mechanic)
-    3. [Section 3: Mystic](https://github.com/sbreining/StarfinderRules#section-3-mystic)
-    4. [Section 4: Operative](https://github.com/sbreining/StarfinderRules#section-4-Operative)
-    5. [Section 5: Solarian](https://github.com/sbreining/StarfinderRules#section-5-solarian)
-    6. [Section 6: Soldier](https://github.com/sbreining/StarfinderRules#section-6-soldier)
-    7. [Section 7: Technomancer](https://github.com/sbreining/StarfinderRules#section-7-technomancer)
-    8. [Section 8: Archtypes](https://github.com/sbreining/StarfinderRules#section-8-archtypes)
-4. [Chapter 4: Skills](https://github.com/sbreining/StarfinderRules#chapter-4-skills)
-5. [Chapter 5: Feats](https://github.com/sbreining/StarfinderRules#chapter-5-feats)
-6. [Chapter 6: Equipment](https://github.com/sbreining/StarfinderRules#chapter-6-equipment)
-    1. [Section 1: Weapons](https://github.com/sbreining/StarfinderRules#section-1-weapons)
-    2. [Section 2: Armor](https://github.com/sbreining/StarfinderRules#section-2-armor)
-    3. [Section 3: Augmentations](https://github.com/sbreining/StarfinderRules#section-3-augmentations)
-    4. [Section 4: Computers](https://github.com/sbreining/StarfinderRules#section-4-computers)
-    5. [Section 5: Technological Items](https://github.com/sbreining/StarfinderRules#section-5-technological-items)
-    6. [Section 6: Magic Items](https://github.com/sbreining/StarfinderRules#section-6-magic-items)
-    7. [Section 7: Hybrid Items](https://github.com/sbreining/StarfinderRules#section-7-hybrid-items)
-    8. [Section 8: Vehicles](https://github.com/sbreining/StarfinderRules#section-8-vehicles)
-    9. [Section 9: Other Purchases](https://github.com/sbreining/StarfinderRules#section-9-other-purchases)
-7. [Chapter 7: Tactical Rules](https://github.com/sbreining/StarfinderRules#chapter-7-tactical-rules)
-    1. [Section 1: Combat Basics](https://github.com/sbreining/StarfinderRules#section-1-combat-basics)
-    2. [Section 2: Actions In Combat](https://github.com/sbreining/StarfinderRules#section-2-actions-in-combat)
-    3. [Section 3: Injury And Death](https://github.com/sbreining/StarfinderRules#section-3-injury-and-death)
-    4. [Section 4: Combat Modifiers](https://github.com/sbreining/StarfinderRules#section-4-combat-modifiers)
-    5. [Section 5: Movement And Position](https://github.com/sbreining/StarfinderRules#section-5-movement-and-position)
-    6. [Section 6: Senses](https://github.com/sbreining/StarfinderRules#section-6-senses)
-    7. [Section 7: Special Abilities](https://github.com/sbreining/StarfinderRules#section-7-special-abilities)
-    8. [Section 8: Bonuses And Penalties](https://github.com/sbreining/StarfinderRules#section-8-bonuses-and-penalties)
-    9. [Section 9: Defining Effects](https://github.com/sbreining/StarfinderRules#section-9-defining-effects)
-    10. [Section 10: Conditions](https://github.com/sbreining/StarfinderRules#section-10-conditions)
-    11. [Section 11: Vehicle Tactical Rules](https://github.com/sbreining/StarfinderRules#section-11-vehicle-tactical-rules)
-8. [Chapter 8: Starships](https://github.com/sbreining/StarfinderRules#chapter-8-starships)
-    1. [Section 1: Space Travel](https://github.com/sbreining/StarfinderRules#section-1-space-travel)
-    2. [Section 2: Building Starships](https://github.com/sbreining/StarfinderRules#section-2-building-starships)
-    3. [Section 3: Sample Starships](https://github.com/sbreining/StarfinderRules#section-3-sample-starships)
-    4. [Section 4: Starship Combat](https://github.com/sbreining/StarfinderRules#section-4-starship-combat)
-9. [Chapter 9: Magic And Spells](https://github.com/sbreining/StarfinderRules#chapter-9-magic-and-spells)
-    1. [Section 1: Magic](https://github.com/sbreining/StarfinderRules#section-1-magic)
-    2. [Section 2: Mystic Spell List](https://github.com/sbreining/StarfinderRules#section-2-mystic-spell-list)
-    3. [Section 3: Technomancer Spell List](https://github.com/sbreining/StarfinderRules#section-3-technomancer-spell-list)
-    4. [Section 4: Spell Descriptions](https://github.com/sbreining/StarfinderRules#section-4-spell-descriptions)
-10. [Chapter 10: Game Mastering](https://github.com/sbreining/StarfinderRules#chapter-10-game-mastering)
-    1. [Section 1: Adventures And Campaigns](https://github.com/sbreining/StarfinderRules#section-1-adventures-and-campaigns)
-    2. [Section 2: Environment](https://github.com/sbreining/StarfinderRules#section-2-environment)
-    3. [Section 3: Traps](https://github.com/sbreining/StarfinderRules#section-3-traps)
-    4. [Section 4: Afflictions](https://github.com/sbreining/StarfinderRules#section-4-afflictions)
-    5. [Section 5: How To Read Stat Blocks](https://github.com/sbreining/StarfinderRules#section-5-how-to-read-stat-blocks)
-11. [Chapter 11: Setting](https://github.com/sbreining/StarfinderRules#chapter-11-setting)
-    1. [Section 1: Pact Worlds Timeline](https://github.com/sbreining/StarfinderRules#section-1-pact-worlds-timeline)
-    2. [Section 2: The Pact Worlds](https://github.com/sbreining/StarfinderRules#section-2-the-pact-worlds)
-    3. [Section 3: Beyond The Pact Worlds](https://github.com/sbreining/StarfinderRules#section-3-beyond-the-pact-worlds)
-    4. [Section 4: The Great Beyond](https://github.com/sbreining/StarfinderRules#section-4-the-great-beyond)
-    5. [Section 5: Factions And Organizations](https://github.com/sbreining/StarfinderRules#section-5-factions-and-organizations)
-    6. [Section 6: Faith And Religion](https://github.com/sbreining/StarfinderRules#section-6-faith-and-religion)
-    7. [Section 7: Threats](https://github.com/sbreining/StarfinderRules#section-7-threats)
-12. [Chapter 12: Pathfinder Legacy](https://github.com/sbreining/StarfinderRules#chapter-12-pathfinder-legacy)
-    1. [Section 1: Legacy Conversion](https://github.com/sbreining/StarfinderRules#section-1-legacy-conversion)
-    2. [Section 2: Legacy Races](https://github.com/sbreining/StarfinderRules#section-2-legacy-races)
-13. [Glossary](https://github.com/sbreining/StarfinderRules#glossary)
+1. [Chapter 1: Character Creation](https://github.com/kettleman/StarfinderRules#chapter-1-character-creation)
+    1. [Section 1: Creation Steps](https://github.com/kettleman/StarfinderRules#section-1-creation-steps)
+    2. [Section 2: Ability Scores](https://github.com/kettleman/StarfinderRules#section-2-ability-scores)
+    3. [Section 3: Health and Resolve](https://github.com/kettleman/StarfinderRules#section-3-health-and-resolve)
+    4. [Section 4: Alignment](https://github.com/kettleman/StarfinderRules#section-4-alignment)
+    5. [Section 5: Leveling Up](https://github.com/kettleman/StarfinderRules#section-5-leveling-up)
+    6. [Section 6: Character Themes](https://github.com/kettleman/StarfinderRules#section-6-character-themes)
+2. [Chapter 2: Races](https://github.com/kettleman/StarfinderRules#chapter-2-races)
+    1. [Section 1: Android](https://github.com/kettleman/StarfinderRules#section-1-android)
+    2. [Section 2: Human](https://github.com/kettleman/StarfinderRules#section-2-human)
+    3. [Section 3: Kasatha](https://github.com/kettleman/StarfinderRules#section-3-kasatha)
+    4. [Section 4: Lashunta](https://github.com/kettleman/StarfinderRules#section-4-lashunta)
+    5. [Section 5: Shirren](https://github.com/kettleman/StarfinderRules#section-5-shirren)
+    6. [Section 6: Vesk](https://github.com/kettleman/StarfinderRules#section-6-vesk)
+    7. [Section 7: Ysoki](https://github.com/kettleman/StarfinderRules#section-7-ysoki)
+    8. [Section 8: Amalgam](https://github.com/kettleman/StarfinderRules#section-8-amalgam)
+3. [Chapter 3: Classes](https://github.com/kettleman/StarfinderRules#chapter-3-classes)
+    1. [Section 1: Envoy](https://github.com/kettleman/StarfinderRules#section-1-envoy)
+    2. [Section 2: Mechanic](https://github.com/kettleman/StarfinderRules#section-2-mechanic)
+    3. [Section 3: Mystic](https://github.com/kettleman/StarfinderRules#section-3-mystic)
+    4. [Section 4: Operative](https://github.com/kettleman/StarfinderRules#section-4-Operative)
+    5. [Section 5: Solarian](https://github.com/kettleman/StarfinderRules#section-5-solarian)
+    6. [Section 6: Soldier](https://github.com/kettleman/StarfinderRules#section-6-soldier)
+    7. [Section 7: Technomancer](https://github.com/kettleman/StarfinderRules#section-7-technomancer)
+    8. [Section 8: Archtypes](https://github.com/kettleman/StarfinderRules#section-8-archtypes)
+4. [Chapter 4: Skills](https://github.com/kettleman/StarfinderRules#chapter-4-skills)
+5. [Chapter 5: Feats](https://github.com/kettleman/StarfinderRules#chapter-5-feats)
+6. [Chapter 6: Equipment](https://github.com/kettleman/StarfinderRules#chapter-6-equipment)
+    1. [Section 1: Weapons](https://github.com/kettleman/StarfinderRules#section-1-weapons)
+    2. [Section 2: Armor](https://github.com/kettleman/StarfinderRules#section-2-armor)
+    3. [Section 3: Augmentations](https://github.com/kettleman/StarfinderRules#section-3-augmentations)
+    4. [Section 4: Computers](https://github.com/kettleman/StarfinderRules#section-4-computers)
+    5. [Section 5: Technological Items](https://github.com/kettleman/StarfinderRules#section-5-technological-items)
+    6. [Section 6: Magic Items](https://github.com/kettleman/StarfinderRules#section-6-magic-items)
+    7. [Section 7: Hybrid Items](https://github.com/kettleman/StarfinderRules#section-7-hybrid-items)
+    8. [Section 8: Vehicles](https://github.com/kettleman/StarfinderRules#section-8-vehicles)
+    9. [Section 9: Other Purchases](https://github.com/kettleman/StarfinderRules#section-9-other-purchases)
+7. [Chapter 7: Tactical Rules](https://github.com/kettleman/StarfinderRules#chapter-7-tactical-rules)
+    1. [Section 1: Combat Basics](https://github.com/kettleman/StarfinderRules#section-1-combat-basics)
+    2. [Section 2: Actions In Combat](https://github.com/kettleman/StarfinderRules#section-2-actions-in-combat)
+    3. [Section 3: Injury And Death](https://github.com/kettleman/StarfinderRules#section-3-injury-and-death)
+    4. [Section 4: Combat Modifiers](https://github.com/kettleman/StarfinderRules#section-4-combat-modifiers)
+    5. [Section 5: Movement And Position](https://github.com/kettleman/StarfinderRules#section-5-movement-and-position)
+    6. [Section 6: Senses](https://github.com/kettleman/StarfinderRules#section-6-senses)
+    7. [Section 7: Special Abilities](https://github.com/kettleman/StarfinderRules#section-7-special-abilities)
+    8. [Section 8: Bonuses And Penalties](https://github.com/kettleman/StarfinderRules#section-8-bonuses-and-penalties)
+    9. [Section 9: Defining Effects](https://github.com/kettleman/StarfinderRules#section-9-defining-effects)
+    10. [Section 10: Conditions](https://github.com/kettleman/StarfinderRules#section-10-conditions)
+    11. [Section 11: Vehicle Tactical Rules](https://github.com/kettleman/StarfinderRules#section-11-vehicle-tactical-rules)
+8. [Chapter 8: Starships](https://github.com/kettleman/StarfinderRules#chapter-8-starships)
+    1. [Section 1: Space Travel](https://github.com/kettleman/StarfinderRules#section-1-space-travel)
+    2. [Section 2: Building Starships](https://github.com/kettleman/StarfinderRules#section-2-building-starships)
+    3. [Section 3: Sample Starships](https://github.com/kettleman/StarfinderRules#section-3-sample-starships)
+    4. [Section 4: Starship Combat](https://github.com/kettleman/StarfinderRules#section-4-starship-combat)
+9. [Chapter 9: Magic And Spells](https://github.com/kettleman/StarfinderRules#chapter-9-magic-and-spells)
+    1. [Section 1: Magic](https://github.com/kettleman/StarfinderRules#section-1-magic)
+    2. [Section 2: Mystic Spell List](https://github.com/kettleman/StarfinderRules#section-2-mystic-spell-list)
+    3. [Section 3: Technomancer Spell List](https://github.com/kettleman/StarfinderRules#section-3-technomancer-spell-list)
+    4. [Section 4: Spell Descriptions](https://github.com/kettleman/StarfinderRules#section-4-spell-descriptions)
+10. [Chapter 10: Game Mastering](https://github.com/kettleman/StarfinderRules#chapter-10-game-mastering)
+    1. [Section 1: Adventures And Campaigns](https://github.com/kettleman/StarfinderRules#section-1-adventures-and-campaigns)
+    2. [Section 2: Environment](https://github.com/kettleman/StarfinderRules#section-2-environment)
+    3. [Section 3: Traps](https://github.com/kettleman/StarfinderRules#section-3-traps)
+    4. [Section 4: Afflictions](https://github.com/kettleman/StarfinderRules#section-4-afflictions)
+    5. [Section 5: How To Read Stat Blocks](https://github.com/kettleman/StarfinderRules#section-5-how-to-read-stat-blocks)
+11. [Chapter 11: Setting](https://github.com/kettleman/StarfinderRules#chapter-11-setting)
+    1. [Section 1: Pact Worlds Timeline](https://github.com/kettleman/StarfinderRules#section-1-pact-worlds-timeline)
+    2. [Section 2: The Pact Worlds](https://github.com/kettleman/StarfinderRules#section-2-the-pact-worlds)
+    3. [Section 3: Beyond The Pact Worlds](https://github.com/kettleman/StarfinderRules#section-3-beyond-the-pact-worlds)
+    4. [Section 4: The Great Beyond](https://github.com/kettleman/StarfinderRules#section-4-the-great-beyond)
+    5. [Section 5: Factions And Organizations](https://github.com/kettleman/StarfinderRules#section-5-factions-and-organizations)
+    6. [Section 6: Faith And Religion](https://github.com/kettleman/StarfinderRules#section-6-faith-and-religion)
+    7. [Section 7: Threats](https://github.com/kettleman/StarfinderRules#section-7-threats)
+12. [Chapter 12: Pathfinder Legacy](https://github.com/kettleman/StarfinderRules#chapter-12-pathfinder-legacy)
+    1. [Section 1: Legacy Conversion](https://github.com/kettleman/StarfinderRules#section-1-legacy-conversion)
+    2. [Section 2: Legacy Races](https://github.com/kettleman/StarfinderRules#section-2-legacy-races)
+13. [Glossary](https://github.com/kettleman/StarfinderRules#glossary)
 
 ### Chapter 1: Character Creation
 
 ##### Section 1: Creation Steps
+
+1. Any adjustments to the 9 steps in the CR will be listed here:
+    1. Step 2, "Choose a Race"
+        1. Refer to Chapter 2, Section 8 of this rule set to understand half-race options. Otherwise choose a race is normal.
+    2. Step 3, "Choose a Theme"
+        1. A player may create a theme, and thus its bonuses, not strictly following the CR custom theme rules. However, it must be approved by the GM to ensure balance.        
+
 ##### Section 2: Ability Scores
+
+1. This rule set will follow the buying of ability scores, wherein, all players start with 10 in each ability, apply racial, class, and theme bonuses, and then spend their 10 points finalizing their character.
+2. After 10 points have been spent, before filling in the character sheet; take the 3 worst abilities and assign them a number 1, 2, or 3. Roll a d6. A roll of 1 or 2 applies to ability 1, 3 or 4 to ability 2, and 5 or 6 to ability 3. The ability chosen this way gets -5 to it.
+
 ##### Section 3: Health and Resolve
 ##### Section 4: Alignment
 ##### Section 5: Leveling Up
@@ -106,6 +117,7 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
 ### Chapter 2: Races
 
 ##### Section 1: Android
+
 1. With provided backstory of how this Android came into existence, a player *may* have his or her Android look like any of the biological races (other than human), but he or she may only take on the Android racial benefits. If the Android looks like a human, then the creation story is assumed to be the one provided by the CR.
 
 ##### Section 2: Human
@@ -115,6 +127,7 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
 ##### Section 6: Vesk
 ##### Section 7: Ysoki
 ##### Section 8: Amalgam
+
 1. There will be allowed half races known in the Pact Worlds as Amalgams, or by the derogatories; halfie, half-breed, mongrel, or bastard. The player must pick at least and at most 2 races to be a child from (with restrictions) to be an Amalgam. In the event that they do, they must provide a backstory to their creation.
     1. The only allowed half races are full biological races; this restricts Androids from being part of half race combinations. 
     2. Ysoki, cannot be part of a hybrid even though they are fully biological lifeforms.

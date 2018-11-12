@@ -18,7 +18,7 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
 1. [Chapter 1: Character Creation](https://github.com/kettleman/StarfinderRules#chapter-1-character-creation)
     1. [Section 1: Creation Steps](https://github.com/kettleman/StarfinderRules#section-1-creation-steps)
     2. [Section 2: Ability Scores](https://github.com/kettleman/StarfinderRules#section-2-ability-scores)
-    3. [Section 3: Health and Resolve](https://github.com/kettleman/StarfinderRules#section-3-health-and-resolve)
+    3. [Section 3: Health And Resolve](https://github.com/kettleman/StarfinderRules#section-3-health-and-resolve)
     4. [Section 4: Alignment](https://github.com/kettleman/StarfinderRules#section-4-alignment)
     5. [Section 5: Leveling Up](https://github.com/kettleman/StarfinderRules#section-5-leveling-up)
     6. [Section 6: Character Themes](https://github.com/kettleman/StarfinderRules#section-6-character-themes)
@@ -93,6 +93,7 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
     2. [Section 2: Legacy Races](https://github.com/kettleman/StarfinderRules#section-2-legacy-races)
 13. [Glossary](https://github.com/kettleman/StarfinderRules#glossary)
 
+
 ### Chapter 1: Character Creation
 
 ##### Section 1: Creation Steps
@@ -101,17 +102,46 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
     1. Step 2, "Choose a Race"
         1. Refer to Chapter 2, Section 8 of this rule set to understand half-race options. Otherwise choose a race is normal.
     2. Step 3, "Choose a Theme"
-        1. A player may create a theme, and thus its bonuses, not strictly following the CR custom theme rules. However, it must be approved by the GM to ensure balance.        
+        1. Refer to Chapter 1, Section 6 for choosing a theme.
+    3. Step 5, "Finalize Ability Scores"
+        1. Refer to Chapter 1, Section 2 of this rule set to learn how to apply ability scores.
+    4. Step 9, "Fill in the Finishing Details"
+        1. Refer to Chapter 1, Section 4 about how to align your character.
+        2. If you're playing an Amalgam, please refer to Chapter 2, Section 8, Article 1, Paragraph 7 to find how to asign your characters languages.
+        3. If you're playing an Amalgam, please refer to Chapter 2, Section 8, Article 1, Paragraphs 3 and 4 to find limits on the size of your character,
+
 
 ##### Section 2: Ability Scores
 
 1. This rule set will follow the buying of ability scores, wherein, all players start with 10 in each ability, apply racial, class, and theme bonuses, and then spend their 10 points finalizing their character.
 2. After 10 points have been spent, before filling in the character sheet; take the 3 worst abilities and assign them a number 1, 2, or 3. Roll a d6. A roll of 1 or 2 applies to ability 1, 3 or 4 to ability 2, and 5 or 6 to ability 3. The ability chosen this way gets -5 to it.
 
-##### Section 3: Health and Resolve
+##### Section 3: Health And Resolve
+
 ##### Section 4: Alignment
+
+1. Assign the following values to the given alignments:
+    1. Lawful Good = 1
+    2. Lawful Neutral = 2
+    3. Lawful Evil = 3
+    4. Neutral Good = 4
+    5. Neutral Evil = 5
+    6. Chaotic Good = 6
+    7. Chaotic Neutral = 7
+    8. Chaotic Evil = 8
+2. Roll a d8, and assign the alignment to your character.
+3. While it may be dangerous to mix Good with Evil in a single party, the party is made up of your comrades with a similar goal. This means you shall not screw over any of your comrades in a way that would cost them their items, or health. Here are one allowed and one disallowed scenario each:
+    1. **Allowed**: The battle is finished, there is one survivor who the group has questioned and acquired all information from. The Good and Evil players may have a roll to see to the fate of the prisoner (release or death). 
+    2. **Disallowed**: The goal is to acquire attack plans on a city and return them to the city lead. While the group is in battle, the evil player swipes the plans and takes off leaving the others to die.
+
 ##### Section 5: Leveling Up
+
+1. Retraining:
+    1. With regards to altered memories because of the Mnemonic Editor; With each new rank purchased, the alteration gets worse. Follow the CR for using a Mk 1 Mnemonic Editor. When using a Mk 2, the memories get worse, but the more important memories can still be put together. After using Mk 3, memories are mostly gone where comrades are known, but don't know how they were introduced into ones life. After Mk 4, all memories are lost, and it is on the comrades to try and convince the user of who they are and why they blong to the group.
+
 ##### Section 6: Character Themes
+
+1. A player may create a theme, and thus its bonuses, not strictly following the CR custom theme rules. However, it must be approved by the GM to ensure balance.
 
 
 ### Chapter 2: Races
@@ -148,7 +178,6 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
         8. Half Lashuntas Half Shirren:
         9. Half Lashuntas Half Vesk:
         10. Half Shirren Half Vesk:
-
 
 
 ### Chapter 3: Classes
@@ -240,4 +269,8 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
 
 
 ### Glossary:
+##### A
 **Amalgam**: A combination of no more than 2 biological races, making this *thing* half of each.
+##### C
+**Comrades**: A reference to the other party members as if being read by one of the player characters.
+**CR**: The Core Rulebook.

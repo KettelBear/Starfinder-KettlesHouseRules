@@ -141,7 +141,8 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
 
 ##### Section 6: Character Themes
 
-1. A player may create a theme, and thus its bonuses, not strictly following the CR custom theme rules. However, it must be approved by the GM to ensure balance.
+1. Themeless is not available to be picked.
+2. A player may create a theme, and thus its bonuses, not strictly following the CR custom theme rules. However, it must be approved by the GM to ensure balance.
 
 
 ### Chapter 2: Races

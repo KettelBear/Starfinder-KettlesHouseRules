@@ -264,6 +264,8 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
 
 ### Chapter 12: Pathfinder Legacy
 
+Legacy is off limits. No legacy races may be played, so there is no need for Legacy Conversion.
+
 ##### Section 1: Legacy Conversion
 ##### Section 2: Legacy Races
 

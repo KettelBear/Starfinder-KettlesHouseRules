@@ -170,6 +170,10 @@ This is a very small subset of rules for the Role-playing Game (RPG) known as St
         1. Half Human Half Kasthas:
             1. Test Text
         2. Half Human Half Lashuntas:
+            1. Korasha Lashunta -
+                1. +1 Strength, +1 Charisma, +1 anywhere, -1 wisdom
+                2. You will inherit the Bonus Feat from your human parent, but not the additional skill rank per level.
+                3. From your Lashunta parent, you'll inherit 1/day "Detect Thoughts" spell-like ability, and the student bonus of +2 to any two skills of choice.
         3. Half Human Half Shirren:
         4. Half Human Half Vesk:
         5. Half Kasathas Half Lashuntas:
